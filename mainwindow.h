@@ -1,7 +1,6 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
-#include "setter.h"
 #include <QMainWindow>
 #include<QKeyEvent>
 #include <QMessageBox>

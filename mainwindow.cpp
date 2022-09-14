@@ -1,5 +1,4 @@
 #include "mainwindow.h"
-#include "executefunction.h"
 #include "ui_mainwindow.h"
 #include <QPainter>
 #include <QtMath>
